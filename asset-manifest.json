@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prime-number-calculator/static/css/main.00a44909.css",
+    "main.js": "/prime-number-calculator/static/js/main.5b24a504.js",
+    "static/js/92.f7542ba6.chunk.js": "/prime-number-calculator/static/js/92.f7542ba6.chunk.js",
+    "static/js/787.2a95ab70.chunk.js": "/prime-number-calculator/static/js/787.2a95ab70.chunk.js",
+    "index.html": "/prime-number-calculator/index.html",
+    "main.00a44909.css.map": "/prime-number-calculator/static/css/main.00a44909.css.map",
+    "main.5b24a504.js.map": "/prime-number-calculator/static/js/main.5b24a504.js.map",
+    "92.f7542ba6.chunk.js.map": "/prime-number-calculator/static/js/92.f7542ba6.chunk.js.map",
+    "787.2a95ab70.chunk.js.map": "/prime-number-calculator/static/js/787.2a95ab70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a44909.css",
+    "static/js/main.5b24a504.js"
+  ]
+}
