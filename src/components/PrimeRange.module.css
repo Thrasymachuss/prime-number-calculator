@@ -1,0 +1,21 @@
+.wrap {
+  padding: 20px;
+  margin: 0 max(20px, 5vw) 10px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.range {
+  border-bottom: 1px solid #000;
+  font-size: 1.5rem;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.primes {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,18 @@
+.prime {
+  font-size: 1.25rem;
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 0 5px 5px 0;
+  min-width: 3rem;
+  text-align: center;
+  animation: appear 0.5s ease-in;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
